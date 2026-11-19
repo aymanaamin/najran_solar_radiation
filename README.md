@@ -1,2 +1,2 @@
 # najran_solar_radiation
-Najran Solar Radiation Dataset
+Najran Solar Radiation Dataset and Codes
